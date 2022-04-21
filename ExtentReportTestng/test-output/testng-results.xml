@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="3" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-17T14:36:16 IST" name="Default suite" finished-at="2022-04-17T14:36:56 IST" duration-ms="39881">
+    <groups>
+    </groups>
+    <test started-at="2022-04-17T14:36:16 IST" name="Default test" finished-at="2022-04-17T14:36:56 IST" duration-ms="39881">
+      <class name="ExtentReportTestng.ExtentReportTestng.ExtentReport">
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:16 IST" name="setExtent" finished-at="2022-04-17T14:36:16 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="chromeLaunch()[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:17 IST" name="chromeLaunch" finished-at="2022-04-17T14:36:21 IST" duration-ms="4203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeLaunch -->
+        <test-method signature="launchFacebook()[pri:1, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:21 IST" name="launchFacebook" finished-at="2022-04-17T14:36:27 IST" duration-ms="5966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchFacebook -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:27 IST" name="tearDown" finished-at="2022-04-17T14:36:28 IST" duration-ms="1221" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=launchFacebook status=SUCCESS method=ExtentReport.launchFacebook()[pri:1, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="chromeLaunch()[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:28 IST" name="chromeLaunch" finished-at="2022-04-17T14:36:31 IST" duration-ms="3005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeLaunch -->
+        <test-method signature="facebookTitleTest()[pri:2, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:31 IST" name="facebookTitleTest" finished-at="2022-04-17T14:36:32 IST" duration-ms="1407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookTitleTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:32 IST" name="tearDown" finished-at="2022-04-17T14:36:33 IST" duration-ms="384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=facebookTitleTest status=SUCCESS method=ExtentReport.facebookTitleTest()[pri:2, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="chromeLaunch()[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:33 IST" name="chromeLaunch" finished-at="2022-04-17T14:36:36 IST" duration-ms="2838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeLaunch -->
+        <test-method signature="FacebookImageTest()[pri:3, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:36 IST" name="FacebookImageTest" finished-at="2022-04-17T14:36:37 IST" duration-ms="1408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookImageTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:37 IST" name="tearDown" finished-at="2022-04-17T14:36:37 IST" duration-ms="407" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=FacebookImageTest status=SUCCESS method=ExtentReport.FacebookImageTest()[pri:3, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="chromeLaunch()[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:37 IST" name="chromeLaunch" finished-at="2022-04-17T14:36:40 IST" duration-ms="2920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeLaunch -->
+        <test-method signature="getTitle()[pri:4, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:40 IST" name="getTitle" finished-at="2022-04-17T14:36:46 IST" duration-ms="5459" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[skipping]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: skipping
+at ExtentReportTestng.ExtentReportTestng.ExtentReport.getTitle(ExtentReport.java:111)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:46 IST" name="tearDown" finished-at="2022-04-17T14:36:47 IST" duration-ms="1221" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getTitle status=SKIP method=ExtentReport.getTitle()[pri:4, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="chromeLaunch()[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:47 IST" name="chromeLaunch" finished-at="2022-04-17T14:36:50 IST" duration-ms="2848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeLaunch -->
+        <test-method signature="loginButtonTest()[pri:4, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:50 IST" name="loginButtonTest" finished-at="2022-04-17T14:36:55 IST" duration-ms="4827" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[login not enabled expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: login not enabled expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at ExtentReportTestng.ExtentReportTestng.ExtentReport.loginButtonTest(ExtentReport.java:102)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginButtonTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:55 IST" name="tearDown" finished-at="2022-04-17T14:36:56 IST" duration-ms="1188" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginButtonTest status=FAILURE method=ExtentReport.loginButtonTest()[pri:4, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:ExtentReportTestng.ExtentReportTestng.ExtentReport@76c3e77a]" started-at="2022-04-17T14:36:56 IST" name="endReport" finished-at="2022-04-17T14:36:56 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- ExtentReportTestng.ExtentReportTestng.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
