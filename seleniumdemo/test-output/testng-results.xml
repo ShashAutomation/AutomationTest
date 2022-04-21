@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="11" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-15T15:10:28 IST" name="Default suite" finished-at="2022-04-15T15:10:34 IST" duration-ms="6453">
+    <groups>
+    </groups>
+    <test started-at="2022-04-15T15:10:28 IST" name="Default test" finished-at="2022-04-15T15:10:34 IST" duration-ms="6453">
+      <class name="seleniumdemo.seleniumdemo.differentTestTypes">
+        <test-method is-config="true" signature="SetExtent()[pri:0, instance:seleniumdemo.seleniumdemo.differentTestTypes@67f639d3]" started-at="2022-04-15T15:10:28 IST" name="SetExtent" finished-at="2022-04-15T15:10:28 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetExtent -->
+        <test-method is-config="true" signature="chromeStart()[pri:0, instance:seleniumdemo.seleniumdemo.differentTestTypes@67f639d3]" started-at="2022-04-15T15:10:28 IST" name="chromeStart" finished-at="2022-04-15T15:10:33 IST" duration-ms="4672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeStart -->
+        <test-method signature="googleTitleTest()[pri:1, instance:seleniumdemo.seleniumdemo.differentTestTypes@67f639d3]" started-at="2022-04-15T15:10:33 IST" name="googleTitleTest" finished-at="2022-04-15T15:10:34 IST" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:seleniumdemo.seleniumdemo.differentTestTypes@67f639d3]" started-at="2022-04-15T15:10:34 IST" name="close" finished-at="2022-04-15T15:10:34 IST" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="endreport()[pri:0, instance:seleniumdemo.seleniumdemo.differentTestTypes@67f639d3]" started-at="2022-04-15T15:10:34 IST" name="endreport" finished-at="2022-04-15T15:10:34 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endreport -->
+      </class> <!-- seleniumdemo.seleniumdemo.differentTestTypes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
